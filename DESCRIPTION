@@ -1,0 +1,13 @@
+Package: package
+Title: The Package Demonstrate How to Create a R Package
+Version: 0.1.0
+Authors@R: 
+    person("José Ailton", "Alencar da Silva", , "ayltonalencar@gmail.com", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description:This package is an introduction to creating your own R package. 
+    With this step-by-step guide, you'll be able to create your custom 
+    R package in no time.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
