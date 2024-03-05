@@ -9,11 +9,10 @@
 #' @return A divição de \code{x} e \code{y}
 #'
 #' @examples
-#' Dividir 4/2 = 2
+#' # Dividir 4/2 = 2
 #' dividir(4,2)
 #'
 #' @export
-
 dividir <- function(x,y){
   stopifnot(y != 0)
   x/y

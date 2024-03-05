@@ -18,7 +18,7 @@ A divição de \code{x} e \code{y}
 \code{dividir()} retorna a divição entre \code{x} e \code{y}.
 }
 \examples{
-Dividir 4/2 = 2
+# Dividir 4/2 = 2
 dividir(4,2)
 
 }

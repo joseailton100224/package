@@ -18,7 +18,7 @@ A subtração de \code{x} e \code{y}
 \code{subtrair()} retorna a subtração entre \code{x} e \code{y}.
 }
 \examples{
-Subtrair 1-1 = 0
+# Subtrair 1-1 = 0
 subtrair(1,1)
 
 }

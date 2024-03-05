@@ -10,7 +10,7 @@
 #' @return A soma de \code{x} e \code{y}
 #'
 #' @examples
-#' Soma 1+1 = 2
+#' # Soma 1+1 = 2
 #' somar(1,1)
 #'
 #' @export

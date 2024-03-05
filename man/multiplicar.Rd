@@ -18,7 +18,7 @@ A multiplicação de \code{x} e \code{y}
 \code{multiplicar()} retorna a multiplicação entre \code{x} e \code{y}.
 }
 \examples{
-Multiplicar 2*2 = 4
+# Multiplicar 2*2 = 4
 multiplicar(2,2)
 
 }
