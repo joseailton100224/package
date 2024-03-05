@@ -1,0 +1,61 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "man/figures/README-",
+  out.width = "100%"
+)
+```
+
+# package
+
+<!-- badges: start -->
+<!-- badges: end -->
+
+O objetivo do pacote é construir um pacote básico.
+
+The goal of package is to ...
+
+## Installation
+
+Você pode instalar a versão em desenvolvimento do pacote a partir de
+[GitHub](https://github.com/) with:
+
+``` r
+# install.packages("devtools")
+devtools::install_github("joseailton100224/package")
+```
+
+## Example
+
+Este é um exemplo básico que mostra as quatro operações básicas:
+
+```{r example}
+library(package)
+
+# Somar
+somar(60,40)
+
+# Subtrair
+subtrair(90,45)
+
+# Multiplicar
+
+multiplicar(0,0)
+
+# Dividir
+dividir(144,33)
+
+
+
+
+```
+
+
+In that case, don't forget to commit and push the resulting figure files, so they display on GitHub and CRAN.
