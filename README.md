@@ -6,6 +6,8 @@
 <!-- badges: start -->
 
 [![R-CMD-check](https://github.com/joseailton100224/package/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/joseailton100224/package/actions/workflows/R-CMD-check.yaml)
+[![Codecov test
+coverage](https://codecov.io/gh/joseailton100224/package/branch/main/graph/badge.svg)](https://app.codecov.io/gh/joseailton100224/package?branch=main)
 <!-- badges: end -->
 
 O objetivo do pacote é construir um pacote básico.
