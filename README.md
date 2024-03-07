@@ -4,6 +4,8 @@
 # package
 
 <!-- badges: start -->
+
+[![R-CMD-check](https://github.com/joseailton100224/package/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/joseailton100224/package/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 O objetivo do pacote é construir um pacote básico.
