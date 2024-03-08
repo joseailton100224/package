@@ -9,6 +9,7 @@
 [![Codecov test
 coverage](https://codecov.io/gh/joseailton100224/package/branch/main/graph/badge.svg)](https://app.codecov.io/gh/joseailton100224/package?branch=main)
 ![Codecov](https://img.shields.io/codecov/c/github/joseailton100224/package)
+[![ORCiD:0000-0001-7414-1154](https://img.shields.io/badge/ORCiD-0000--0001--7414--1154-A6CE39?logo=ORCID&colorIcon.svg)](https://orcid.org/0009-0003-5992-6019)
 
 <!-- badges: end -->
 
